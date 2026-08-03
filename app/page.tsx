@@ -505,9 +505,9 @@ export default function Home() {
                   { tag: "iftar with direktur pln", desc: "Kegiatan silaturahmi dan buka puasa bersama Direktur PLN.", img: "/mc_pln.jpg" },
                   { tag: "Compfest 17", desc: "Festival dan kompetisi teknologi informasi berskala nasional.", img: "/mc_compfest.jpg" },
                   { tag: "Kampanye akbar", desc: "Festival akbar yang merayakan semangat kolaborasi keluarga besar alumni.", img: "/mc_kampanye.jpg" },
-                  { tag: "Akrobatik 2024", desc: "Acara aliansi Mahasiswa Ilmu Politik Jakarta.", img: "/mc_kampus.JPG" },
+                  { tag: "Akrobatik 2024", desc: "Acara aliansi Mahasiswa Ilmu Politik Jakarta.", img: "/mc_kampus.jpg" },
                   { tag: "Seminar Disinformasi Dunia Digital", desc: "Seminar edukatif mengenai pencegahan penyebaran informasi hoaks di dunia maya.", img: "/moderator.jpg" },
-                  { tag: "Sistech 2025", desc: "Workshop dan Awarding program SISTECH 2025.", img: "/mc_sistech.JPG" }
+                  { tag: "Sistech 2025", desc: "Workshop dan Awarding program SISTECH 2025.", img: "/mc_sistech.jpg" }
                 ].map((item, idx) => (
                   <div className="exp-tile" key={idx}>
                     <div className="exp-photo">
