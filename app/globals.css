@@ -619,4 +619,8 @@ footer strong {
   .exp-head{ align-items:flex-start; }
   .rate-table th, .rate-table td{ padding: 14px 16px; font-size:0.9rem; }
   .contact-card{ padding: 30px 22px; }
+  .rate, .contact {
+    display: block; 
+    min-height: auto; 
+  }
 }
