@@ -503,11 +503,11 @@ export default function Home() {
                   { tag: "Iftar with Menlu RI", desc: "Silaturahmi IKASTARA bersama Menteri Luar Negeri RI", img: "/mc_goverment.jpg" },
                   { tag: "RKB 30 tahun ikastara", desc: "Kegiatan olahraga bersama dalam rangka peringatan ulang tahun ke-30.", img: "/mc_rkb.jpg" },
                   { tag: "iftar with direktur pln", desc: "Kegiatan silaturahmi dan buka puasa bersama Direktur PLN.", img: "/mc_pln.jpg" },
-                  { tag: "Compfest 17", desc: "Festival dan kompetisi teknologi informasi berskala nasional.", img: "/mc_compfest.jpg" },
-                  { tag: "Kampanye akbar", desc: "Festival akbar yang merayakan semangat kolaborasi keluarga besar alumni.", img: "/mc_kampanye.jpg" },
-                  { tag: "Akrobatik 2024", desc: "Acara aliansi Mahasiswa Ilmu Politik Jakarta.", img: "/mc_kampus.jpg" },
+                  { tag: "Compfest 17", desc: "Festival dan kompetisi teknologi informasi berskala nasional.", img: "/mc_compfest.JPG" },
+                  { tag: "Kampanye akbar", desc: "Festival akbar yang merayakan semangat kolaborasi keluarga besar alumni.", img: "/mc_kampanye.JPG" },
+                  { tag: "Akrobatik 2024", desc: "Acara aliansi Mahasiswa Ilmu Politik Jakarta.", img: "/mc_kampus.jpeg" },
                   { tag: "Seminar Disinformasi Dunia Digital", desc: "Seminar edukatif mengenai pencegahan penyebaran informasi hoaks di dunia maya.", img: "/moderator.jpg" },
-                  { tag: "Sistech 2025", desc: "Workshop dan Awarding program SISTECH 2025.", img: "/mc_sistech.jpg" }
+                  { tag: "Sistech 2025", desc: "Workshop dan Awarding program SISTECH 2025.", img: "/mc_sistech.jpeg" }
                 ].map((item, idx) => (
                   <div className="exp-tile" key={idx}>
                     <div className="exp-photo">
