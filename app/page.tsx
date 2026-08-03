@@ -557,15 +557,15 @@ export default function Home() {
                 Mulai dari segitu, kamu udah bisa dapetin MC yang siap bikin acaramu hidup, hangat, dan berkesan. Bebas sesuaikan dengan durasi, kebutuhan acara, hingga pilihan <b>MC Individu</b> atau <b>Paket Bundling Berdua</b>.
               </p>
               
-              <a className="rate-nego" href="#contact">
-                <svg viewBox="0 0 24 24" width="16" height="16" fill="none"><path d="M12 3a9 9 0 0 0-7.8 13.5L3 21l4.7-1.2A9 9 0 1 0 12 3Z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round"/></svg>
-                <span>Harga masih bisa didiskusikan (chat WhatsApp kami buat nego)</span>
-              </a>
-
               <div className="rate-note">
                 <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="1.6"/><path d="M12 8v5M12 16h.01" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"/></svg>
                 <span>Harga final menyesuaikan durasi &amp; jumlah MC. Berlaku untuk area <b style={{ color: "#fff" }}>JABODETABEK</b>.</span>
               </div>
+
+              <a className="rate-nego" href="#contact">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none"><path d="M12 3a9 9 0 0 0-7.8 13.5L3 21l4.7-1.2A9 9 0 1 0 12 3Z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round"/></svg>
+                <span>Harga masih bisa didiskusikan (chat WhatsApp kami buat nego)</span>
+              </a>
             </div>
 
             <div className="rate-side">
