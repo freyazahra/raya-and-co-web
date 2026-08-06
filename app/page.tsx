@@ -203,7 +203,7 @@ export default function Home() {
         </div>
 
         <div className="hero-eyebrow">
-          <span className="dot"></span> Master of Ceremony Duo · Jabodetabek
+          <span className="dot"></span> Professional Master of Ceremony
         </div>
 
         <img className="hero-logo" src="/logo_raya.png" alt="Logo Raya & Co. — ikon mikrofon dengan huruf R dan F" />
@@ -374,38 +374,39 @@ export default function Home() {
 
             <div className="about-copy">
               <p className="lede">
-                Duo komunikator di balik <b>Raya &amp; Co.</b> Cerita kami berawal manis sebagai
-                abang dan adik kelas di SMA yang sering diduetkan memandu panggung, hingga kini
-                kekompakan itu berlanjut sebagai sesama mahasiswa Universitas Indonesia 
-                membentuk chemistry dan interaksi panggung yang natural.
+                <b>Raya &amp; Co.</b> adalah duo MC yang menggabungkan profesionalisme, chemistry, dan komunikasi
+                yang natural di setiap panggung. Berawal sebagai kakak dan adik kelas di SMA yang kerap 
+                dipasangkan sebagai MC, kini kami melanjutkan perjalanan tersebut sebagai mahasiswa 
+                Universitas Indonesia dengan kekompakan yang terus terbangun dalam setiap acara.
               </p>
 
               <div className="about-blocks">
                 <div className="about-block block-navy">
                   <h3>Cerita Kami</h3>
-                  Sama-sama berkiprah sebagai MC sejak tahun <b>2023</b>, jam terbang itu membentuk
-                  kekompakan dan gaya membawakan acara yang mengalir apa adanya di atas panggung.
+                  Sejak <b>2023</b>, kami aktif membawakan berbagai jenis acara. Pengalaman tersebut membentuk chemistry, 
+                  ritme komunikasi, dan gaya membawakan acara yang terasa natural, interaktif, serta mampu membangun 
+                  suasana sesuai karakter setiap event.
                 </div>
                 <div className="about-block block-yellow">
                   <h3>Yang Kami Tawarkan</h3>
-                  Layanan <b>MC &amp; moderator</b> untuk acara formal, semi-formal, maupun
-                  non-formal dengan gaya humoris, formal, hangat, atau energik sesuai kebutuhan
-                  acaramu.
+                  Kami menyediakan layanan <b>MC dan Moderator</b> untuk berbagai jenis acara. Mulai dari formal, 
+                  semi-formal, hingga non-formal. Gaya pembawaan dapat disesuaikan dengan karakter acara,
+                   mulai dari profesional, hangat, energik, hingga santai dan interaktif.
                 </div>
               </div>
 
               <div className="about-meta">
                 <div>
                   <strong>2023</strong>
-                  <span>Mulai berkiprah</span>
+                  <span>Established 2023</span>
                 </div>
                 <div>
                   <strong>2</strong>
-                  <span>MC dalam satu tim</span>
+                  <span>Professional MCs</span>
                 </div>
                 <div>
                   <strong>10+</strong>
-                  <span>Gaya membawakan acara</span>
+                  <span>Hosting Style</span>
                 </div>
               </div>
             </div>
@@ -554,17 +555,17 @@ export default function Home() {
                 Rp1.200.000
               </div>
               <p className="rate-teaser-copy">
-                Mulai dari segitu, kamu udah bisa dapetin MC yang siap bikin acaramu hidup, hangat, dan berkesan. Bebas sesuaikan dengan durasi, kebutuhan acara, hingga pilihan <b>MC Individu</b> atau <b>Paket Bundling Berdua</b>.
+                Kamu sudah bisa menghadirkan MC yang siap membuat acaramu lebih hidup, hangat, dan berkesan. Pilih paket yang paling sesuai dengan kebutuhanmu, mulai dari durasi acara hingga opsi <b>MC Individu</b> atau <b>MC Duo</b>.
               </p>
               
               <div className="rate-note">
                 <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="1.6"/><path d="M12 8v5M12 16h.01" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"/></svg>
-                <span>Harga final menyesuaikan durasi &amp; jumlah MC. Berlaku untuk area <b style={{ color: "#fff" }}>JABODETABEK</b>.</span>
+                <span>Rate Card menyesuaikan dengan durasi & jumlah MC. Berlaku untuk area <b style={{ color: "#fff" }}>JABODETABEK</b>.</span>
               </div>
 
               <a className="rate-nego" href="#contact">
                 <svg viewBox="0 0 24 24" width="16" height="16" fill="none"><path d="M12 3a9 9 0 0 0-7.8 13.5L3 21l4.7-1.2A9 9 0 1 0 12 3Z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round"/></svg>
-                <span>Harga masih bisa didiskusikan (chat WhatsApp kami buat nego)</span>
+                <span>Let's Discuss Your Budget! Contact us!</span>
               </a>
             </div>
 

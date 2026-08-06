@@ -636,6 +636,8 @@ footer strong {
   .field-row { 
     grid-template-columns: 1fr; 
   }
+
+  /* 2. Mengurangi sedikit padding/jarak di dalam kotak form agar isinya lebih lega */
   .booking-form { 
     padding: 28px 20px; 
   }
