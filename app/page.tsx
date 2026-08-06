@@ -565,7 +565,7 @@ export default function Home() {
 
               <a className="rate-nego" href="#contact">
                 <svg viewBox="0 0 24 24" width="16" height="16" fill="none"><path d="M12 3a9 9 0 0 0-7.8 13.5L3 21l4.7-1.2A9 9 0 1 0 12 3Z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round"/></svg>
-                <span>Let's Discuss Your Budget! Contact us!</span>
+                <span>Let's discuss your budget! Contact us!</span>
               </a>
             </div>
 
