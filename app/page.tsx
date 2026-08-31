@@ -182,7 +182,7 @@ export default function Home() {
           </ul>
           <a
             className="nav-cta"
-            href="https://wa.me/6285161922006?text=Halo%20Raya%20%26%20Co.%21%20Saya%20tertarik%20booking%20MC%20untuk%20acara%20saya%2C%20boleh%20minta%20info%20lebih%20lanjut%3F"
+            href="https://wa.me/6285281306335?text=Halo%20Raya%20%26%20Co.%21%20Saya%20tertarik%20booking%20MC%20untuk%20acara%20saya%2C%20boleh%20minta%20info%20lebih%20lanjut%3F"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -217,7 +217,7 @@ export default function Home() {
         <div className="hero-ctas">
           <a
             className="btn btn-primary"
-            href="https://wa.me/6285161922006?text=Halo%20Raya%20%26%20Co.%21%20Saya%20tertarik%20booking%20MC%20untuk%20acara%20saya%2C%20boleh%20minta%20info%20lebih%20lanjut%3F"
+            href="https://wa.me/6285281306335?text=Halo%20Raya%20%26%20Co.%21%20Saya%20tertarik%20booking%20MC%20untuk%20acara%20saya%2C%20boleh%20minta%20info%20lebih%20lanjut%3F"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -582,9 +582,9 @@ export default function Home() {
               <div className="rate-panel exclude">
                 <h3><span className="swatch"></span>Belum Termasuk / Tambahan</h3>
                 <ul>
-                  <li>Cue card MC <b>+Rp200.000</b></li>
-                  <li>Rehearsal tambahan <b>+Rp350.000</b></li>
-                  <li>Transportasi luar Jakarta <b>+Rp250.000</b></li>
+                  <li>Cue card MC </li>
+                  <li>Rehearsal tambahan </li>
+                  <li>Transportasi luar Jakarta </li>
                 </ul>
               </div>
             </div>
@@ -689,7 +689,7 @@ export default function Home() {
       </section>
 
       {/* ================= FLOATING WA ================= */}
-      <a className="fab-wa" id="fabWa" href="https://wa.me/6285161922006?text=Halo%20Raya%20%26%20Co.%21%20Saya%20tertarik%20booking%20MC%20untuk%20acara%20saya%2C%20boleh%20minta%20info%20lebih%20lanjut%3F" target="_blank" rel="noopener noreferrer" aria-label="Chat WhatsApp Raya & Co.">
+      <a className="fab-wa" id="fabWa" href="https://wa.me/6285281306335?text=Halo%20Raya%20%26%20Co.%21%20Saya%20tertarik%20booking%20MC%20untuk%20acara%20saya%2C%20boleh%20minta%20info%20lebih%20lanjut%3F" target="_blank" rel="noopener noreferrer" aria-label="Chat WhatsApp Raya & Co.">
         <span className="fab-ping" aria-hidden="true"></span>
         <img className="wa-icon fab-wa-icon" src="/icon_WA.png" alt="" />
       </a>
