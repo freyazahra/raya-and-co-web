@@ -98,7 +98,7 @@ export default function Home() {
     }
 
     const formData = new FormData(form);
-    const WA_NUMBER = "6285161922006";
+    const WA_NUMBER = "6285281306335";
     const values = {
       name: String(formData.get("name") || "-").trim(),
       phone: String(formData.get("phone") || "-").trim(),
