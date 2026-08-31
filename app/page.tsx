@@ -693,7 +693,6 @@ export default function Home() {
         <span className="fab-ping" aria-hidden="true"></span>
         <img className="wa-icon fab-wa-icon" src="/icon_WA.png" alt="" />
       </a>
-
       {/* ================= FOOTER ================= */}
       <footer>
         <div className="wrap">
@@ -701,8 +700,8 @@ export default function Home() {
             <div><strong>Raya &amp; Co.</strong> </div>
           </div>
           <div className="footer-social">
-            {/* Ganti link href di bawah dengan link Instagram yang asli */}
-            <a href="https://instagram.com/rayaandco" target="_blank" rel="noopener noreferrer" aria-label="Instagram Raya & Co.">
+            {/* Link dan nama Instagram sudah diperbarui ke @mcbyraya */}
+            <a href="https://www.instagram.com/mcbyraya?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer" aria-label="Instagram Raya & Co.">
               <div className="icon-wrap">
                 <svg viewBox="0 0 24 24" fill="none">
                   <rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" strokeWidth="1.6" />
@@ -710,7 +709,7 @@ export default function Home() {
                   <circle cx="17.2" cy="6.8" r="1.1" fill="currentColor" />
                 </svg>
               </div>
-              <span>@raya&amp;co.</span>
+              <span>@mcbyraya</span>
             </a>
           </div>
         </div>
