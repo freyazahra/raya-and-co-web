@@ -551,9 +551,9 @@ export default function Home() {
           <div className="rate-grid">
             <div className="rate-teaser">
               <div className="rate-price">
-                <span className="from">Mulai dari</span>
-                Rp1.200.000
-              </div>
+                  <span className="from">Mulai dari</span>
+                  Rp 1.199K<span style={{ fontSize: "0.55em", marginLeft: "4px", opacity: 0.8, verticalAlign: "middle"}}>++</span>
+                </div>
               <p className="rate-teaser-copy">
                 Kamu sudah bisa menghadirkan MC yang siap membuat acaramu lebih hidup, hangat, dan berkesan. Pilih paket yang paling sesuai dengan kebutuhanmu, mulai dari durasi acara hingga opsi <b>MC Individu</b> atau <b>MC Duo</b>.
               </p>
@@ -579,14 +579,7 @@ export default function Home() {
                   <li>Outfit menyesuaikan permintaan</li>
                 </ul>
               </div>
-              <div className="rate-panel exclude">
-                <h3><span className="swatch"></span>Belum Termasuk / Tambahan</h3>
-                <ul>
-                  <li>Cue card MC </li>
-                  <li>Rehearsal tambahan </li>
-                  <li>Transportasi luar Jakarta </li>
-                </ul>
-              </div>
+
             </div>
           </div>
         </div>
