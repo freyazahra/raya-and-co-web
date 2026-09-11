@@ -552,7 +552,7 @@ export default function Home() {
             <div className="rate-teaser">
               <div className="rate-price">
                   <span className="from">Mulai dari</span>
-                  Rp 1.199K<span style={{ fontSize: "0.55em", marginLeft: "4px", opacity: 0.8, verticalAlign: "middle"}}>++</span>
+                  Rp 599K<span style={{ fontSize: "0.55em", marginLeft: "4px", opacity: 0.8, verticalAlign: "middle"}}>++</span>
                 </div>
               <p className="rate-teaser-copy">
                 Kamu sudah bisa menghadirkan MC yang siap membuat acaramu lebih hidup, hangat, dan berkesan. Pilih paket yang paling sesuai dengan kebutuhanmu, mulai dari durasi acara hingga opsi <b>MC Individu</b> atau <b>MC Duo</b>.
